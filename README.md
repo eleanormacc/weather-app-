@@ -1,2 +1,2 @@
 # Weather-app-
-Creating an Weather api using Kotlin &amp; Backend Python 
+A Weather app using SwiftUI and backend Python 
